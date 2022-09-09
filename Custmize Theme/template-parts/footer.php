@@ -11,5 +11,5 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 ?>
 <footer id="site-footer" class="bg-dark text-light" role="contentinfo">
-<h6 class="m-0">&copy; test-site@satou</h6>
+<h6 class="m-0">&copy; test-site@yano</h6>
 </footer>
